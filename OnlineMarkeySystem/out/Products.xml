@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><list>
+  <clothes id="A0001">
+    <brand>VEROMODA</brand>
+    <style>连衣裙</style>
+    <color>白色</color>
+    <size>s</size>
+    <num>10</num>
+    <price>274.0</price>
+    <description>夏季五分袖连衣裙</description>
+  </clothes>
+  <clothes id="A0002">
+    <brand>GAP</brand>
+    <style>连衣裙</style>
+    <color>黑白色</color>
+    <size>s</size>
+    <num>18</num>
+    <price>164.0</price>
+    <description>系带无袖宽松夏季柔软碎花背心裙 </description>
+  </clothes>
+  <clothes id="A0003">
+    <brand>ONLY</brand>
+    <style>连衣裙</style>
+    <color>蓝色</color>
+    <size>均码</size>
+    <num>20</num>
+    <price>499.0</price>
+    <description>荷叶边系带连衣裙 </description>
+  </clothes>
+  <clothes id="A0004">
+    <brand>女人镜</brand>
+    <style>连衣裙</style>
+    <color>蓝色</color>
+    <size>S</size>
+    <num>20</num>
+    <price>39.0</price>
+    <description>工厂直销新款女装时尚气质修身夏季显瘦连衣裙</description>
+  </clothes>
+  <clothes id="A0005">
+    <brand>欧时力</brand>
+    <style>连衣裙</style>
+    <color>粉红色</color>
+    <size>S</size>
+    <num>18</num>
+    <price>99.0</price>
+    <description>新款女夏装拼接印花棉质短袖连衣裙</description>
+  </clothes>
+  <clothes id="A0006">
+    <brand>NIKE</brand>
+    <style>运动裤</style>
+    <color>黑色</color>
+    <size>L</size>
+    <num>18</num>
+    <price>299.0</price>
+    <description>男士训练裤</description>
+  </clothes>
+  <clothes id="A0007">
+    <brand>ADIDAS</brand>
+    <style>运动裤</style>
+    <color>黑色</color>
+    <size>XL</size>
+    <num>20</num>
+    <price>269.0</price>
+    <description>男士宽松训练裤</description>
+  </clothes>
+  <clothes id="A0008">
+    <brand>洛诗琳</brand>
+    <style>连衣裙</style>
+    <color>黑色</color>
+    <size>S</size>
+    <num>18</num>
+    <price>199.0</price>
+    <description>数码雪纺印花复古裙</description>
+  </clothes>
+</list>
